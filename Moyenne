@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Calculer une Moyenne - Outil en Ligne</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      background-color: #f4f4f4;
+      padding: 20px;
+    }
+    .container {
+      background-color: #fff;
+      padding: 30px;
+      max-width: 800px;
+      margin: auto;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      border-radius: 10px;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    a {
+      color: #3498db;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Calculer une Moyenne - Outil en Ligne Gratuit</h1>
+    <p>
+      Le site <strong><a href="https://calculerenligne.fr/moyenne/" target="_blank">calculerenligne.fr</a></strong> propose un outil simple et efficace pour calculer des moyennes, y compris les moyennes de pourcentages.
+    </p>
+    <p>
+      Que vous soyez étudiant, enseignant ou professionnel, cet outil vous permet de :
+    </p>
+    <ul>
+      <li>Calculer une moyenne simple à partir d’une liste de nombres</li>
+      <li>Effectuer une moyenne pondérée en tenant compte des coefficients</li>
+      <li>Calculer des moyennes de pourcentages de manière précise</li>
+    </ul>
+    <p>
+      L’interface est intuitive et rapide à utiliser, sans inscription ni téléchargement. Il suffit d’entrer vos valeurs, et le site calcule automatiquement le résultat.
+    </p>
+    <p>
+      Accédez directement à l’outil ici : 
+      <a href="https://calculerenligne.fr/moyenne/" target="_blank">
+        https://calculerenligne.fr/moyenne/
+      </a>
+    </p>
+  </div>
+</body>
+</html>
